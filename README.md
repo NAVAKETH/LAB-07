@@ -57,6 +57,10 @@ Maximum Value :2147483647
 คำสั่งสำหรับการทดลอง
 ให้นักศึกษา เขียนโปรแกรมคล้ายกับตัวอย่างที่ 1 โดยมีชนิดข้อมูลเป็น byte, char, bool, sbyte, short, ushort, uint, float, double, decimal, long และ ulong
 
+###ผลการทดลอง
+![](https://github.com/NAVAKETH/LAB-07/blob/master/7.1.PNG?raw=true)
+![](https://github.com/NAVAKETH/LAB-07/blob/master/7.1.1.PNG?raw=true)
+
 **หมายเหตุ**
  
 ชนิดข้อมูล ```bool``` เก็บข้อมูลได้เฉพาะ ```true``` และ ```false``` ไม่ต้องหา ```MinValue``` และ ```MaxValue```
@@ -118,7 +122,9 @@ namespace RandomNumber
 1. สร้างตัวแปร boolean โดยเก็บค่าที่ได้จากการเปรียบเทียบตัวเลขในข้อ 1 และ 2
 
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
-
+###ผลการทดลอง
+![](https://github.com/NAVAKETH/LAB-07/blob/master/7.2.1.PNG?raw=true)
+![](https://github.com/NAVAKETH/LAB-07/blob/master/7.2.PNG?raw=true)
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
 
