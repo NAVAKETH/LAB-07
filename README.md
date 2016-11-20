@@ -216,6 +216,7 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+![](https://github.com/NAVAKETH/LAB-07/blob/master/7.3.PNG?raw=true)
 
 
 
